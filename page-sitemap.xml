@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-28T09:28:22+01:00</lastmod>
+		<lastmod>2023-03-31T07:18:37+01:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/design-resource-avatar-1.jpg</image:loc>
 		</image:image>
@@ -11,6 +11,86 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/design-resource-avatar-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/kontak</loc>
+		<lastmod>2023-03-31T08:21:15+01:00</lastmod>
+	</url>
+	<url>
+		<loc>/tentang</loc>
+		<lastmod>2023-03-31T08:19:19+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/about1-1-q44apiure9blqkklf3wwvfgy5qv9cglfbnjyx4mjds.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/about2-q44am7h9aas6s3dzs6bakrlept7n6wfij8payzjjc0.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/about3-q44am5lkwmpm4vgq35i1fs2hj1gwri81uzec0fmbog.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bulanan</loc>
+		<lastmod>2023-03-31T08:16:02+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/langgananbulanan2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mingguan</loc>
+		<lastmod>2023-03-31T08:08:46+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/langgananminggu1-820x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/harian</loc>
+		<lastmod>2023-03-31T08:03:45+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/langgananhari1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/menu-lainnya</loc>
+		<lastmod>2023-03-31T07:55:42+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/seafood2-rotated.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/menu-internasional</loc>
+		<lastmod>2023-03-31T07:51:58+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/chinesefood2-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/food-truck</loc>
+		<lastmod>2023-03-31T07:48:48+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/foodtruck2-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/prasmanan</loc>
+		<lastmod>2023-03-31T07:44:12+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/bufffet2-819x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/menu-sehat</loc>
+		<lastmod>2023-03-31T07:34:54+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/menusehat2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/nasi-box</loc>
+		<lastmod>2023-03-31T07:24:09+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/nasibox2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -28,20 +108,6 @@
 	<url>
 		<loc>/berita-katering-buffet-prasmanan-dari-katering-co-id-2</loc>
 		<lastmod>2023-03-28T23:39:57+01:00</lastmod>
-	</url>
-	<url>
-		<loc>/menu-lainnya</loc>
-		<lastmod>2023-03-28T15:19:03+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/seafood2-rotated.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/menu-internasional</loc>
-		<lastmod>2023-03-28T15:13:51+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/chinesefood2-819x1024.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/langganan</loc>
@@ -133,13 +199,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/prasmanan</loc>
-		<lastmod>2023-03-28T13:26:29+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/bufffet2-819x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/beranda</loc>
 		<lastmod>2023-03-28T09:30:40+01:00</lastmod>
 		<image:image>
@@ -150,65 +209,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/design-resource-avatar-3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/menu-sehat</loc>
-		<lastmod>2023-03-28T03:58:46+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/menusehat2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/food-truck</loc>
-		<lastmod>2023-03-28T03:55:30+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/foodtruck2-819x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/nasi-box</loc>
-		<lastmod>2023-03-28T03:51:51+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/nasibox2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/bulanan</loc>
-		<lastmod>2023-03-28T03:50:49+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/langgananbulanan2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/mingguan</loc>
-		<lastmod>2023-03-28T03:49:33+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/langgananminggu1-820x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/harian</loc>
-		<lastmod>2023-03-27T23:11:12+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/langgananhari1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/kontak</loc>
-		<lastmod>2023-03-27T08:54:23+01:00</lastmod>
-	</url>
-	<url>
-		<loc>/tentang</loc>
-		<lastmod>2023-03-27T08:52:52+01:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/about1-1-q44apiure9blqkklf3wwvfgy5qv9cglfbnjyx4mjds.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/about2-q44am7h9aas6s3dzs6bakrlept7n6wfij8payzjjc0.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/about3-q44am5lkwmpm4vgq35i1fs2hj1gwri81uzec0fmbog.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
